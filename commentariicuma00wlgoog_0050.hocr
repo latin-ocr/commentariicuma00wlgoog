@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./commentariicuma00wlgoog_0050.png"; bbox 0 0 2414 3968; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 283 1260 819 1347">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 283 1260 819 1347">
+     <span class='ocr_line' id='line_1_1' title="bbox 283 1260 819 1347; baseline -0.007 0"><span class='ocrx_word' id='word_1_1' title='bbox 283 1263 506 1347; x_wconf 78' lang='lat' dir='ltr'>0.1UL11</span> <span class='ocrx_word' id='word_1_2' title='bbox 539 1260 819 1346; x_wconf 75' lang='lat' dir='ltr'><strong>CAESARIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 418 1489 688 1550">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 418 1489 688 1550">
+     <span class='ocr_line' id='line_1_2' title="bbox 418 1489 688 1550; baseline -0.007 -13"><span class='ocrx_word' id='word_1_3' title='bbox 418 1491 478 1550; x_wconf 69' lang='lat' dir='ltr'><strong>qm</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 500 1489 688 1537; x_wconf 75' lang='lat' dir='ltr'>FERUNTUR</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 81 1676 1030 1791">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 81 1676 1030 1791">
+     <span class='ocr_line' id='line_1_3' title="bbox 81 1676 1030 1791; baseline -0.004 0"><span class='ocrx_word' id='word_1_5' title='bbox 81 1676 1030 1791; x_wconf 77' lang='lat' dir='ltr'><strong>COMMENTARII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 135 2070 972 2179">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 135 2070 972 2179">
+     <span class='ocr_line' id='line_1_4' title="bbox 135 2070 972 2179; baseline 0.001 -36"><span class='ocrx_word' id='word_1_6' title='bbox 135 2071 289 2144; x_wconf 83' lang='lat' dir='ltr'>BELLO</span> <span class='ocrx_word' id='word_1_7' title='bbox 316 2070 669 2144; x_wconf 78' lang='lat' dir='ltr'><strong>ALEXANDRINO</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 696 2072 761 2144; x_wconf 82' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 782 2071 972 2179; x_wconf 66' lang='lat' dir='ltr'><strong>AERIOO.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1212 3968">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1212 3968">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1212 3968; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1212 3968; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
